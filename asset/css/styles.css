@@ -39,12 +39,14 @@ html{
     margin: 3px;
     border: none;
     border-radius: 2px;
+    cursor: pointer;
 
 }
 
 .menu .logo{
     width: 30px;
     height: 30px;
+    cursor: pointer;
 }
 
 .header{
@@ -145,6 +147,7 @@ html{
     cursor: pointer;
     border-radius: 5px;
     border-width: 10px;
+    margin: 15px;
 }
 
 .footer{
@@ -164,6 +167,8 @@ html{
 .footer .logo img{
     width: 30px;
     height: 30px;
+    margin-top: 10px;
+    cursor: pointer;
 }
 .footer h3{
     display: grid;
